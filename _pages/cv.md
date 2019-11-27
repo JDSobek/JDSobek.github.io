@@ -11,49 +11,101 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Physics, Winona State University, 2011, 4.0 GPA
+* M.S. Physics, University of Minnesota, 2013, 3.76 GPA
+* Doctoral Candidacy/ABD, University of Minnesota, 2017
+
+Online Training
+======
+* Automate the Boring Stuff with Python Programming online course completed June 2019
+* 365 Data Science Bootcamp online course completed Oct. 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research and Teaching Assistant, University of Minnesota: Aug 2011 – Aug 2017
+    * Collected and analyzed data in many paradigms (x-ray diffraction, low temperature physics, energetic particle detectors) using software based collection methods
+    * Epitaxial deposition of high temperature superconductors
+    * PVD deposition, including shadow masking
+    * Programmed neutrino interaction analysis software using C++ and Python
+    * Tested particle identification models using large simulated data sets
+    * Procured supplies and equipment as needed for laboratory use and upkeep of multi-chamber UHV system
+    * Documented and followed standard operating procedures
+    * Taught usage of laboratory equipment, UHV, and PVD systems to colleagues
+    * Presented data and research in laboratory and department meetings and seminars
+    * Handled and disposed of hazardous materials safely according to university procedures
+    * Programmed and calibrated control loops for laboratory automation using LabView
+    * Programmed and calibrated PID control loops for PLCs and laboratory automation
+    * Collaborated in a variety of team environments/research groups (from 2-3 members to 100+)
+    * Designed, fabricated, installed, and maintained laboratory equipment
+    * Assisted with construction of lab facilities (including electrical, water, and gas management)
+    * Administrated laboratory computer network
+    * Mentored undergraduate research groups doing independent research
+    * Taught electronics, experimental methods, data analysis, and LabView programming
+    * Led introductory physics labs and discussion groups
+    
+* Undergraduate Summer Researcher, University of Minnesota: May 2010 – Aug 2010
+    * Fourier analysis of magnetospheric electromagnetic and particle flux density data from satellite databases
+    * Search for novel oscillations during magnetic line crossing events
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Physics Tutor, Winona State University: Jan 2010 – May 2011
+    * Tutored undergraduates studying introductory physics
+
+* Undergraduate Summer Researcher, Mayo Clinic: May 2008 – Aug 2008
+    * Studied gene expression in cultured cancer cells using confocal microscopy, image analysis, and Western blotting
+    * Mix and stock laboratory solutions
+    * Transfer and care for cell cultures
+
+* Service Assistant, Costco Wholesale Corporation: Aug 2018 – March 2019
+    * Inventory management of warehouse section
+    * Prepare store for opening
+    * Exceptional customer service
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Semiconductors
+  * Molecular Beam Epitaxy
+  * Physical Vapor Deposition
+  * Programmable Logic Controllers
+  * Ultra-High Vacuum Systems
+  * PID Controller Calibration
+* Equipment
+  * Design and Fabrication
+  * Oscilloscopes
+  * Digital Multi-meters
+  * Nanovoltmeters
+  * Wet Benches
+  * Cryogenics
+  * X-Ray Diffraction/Reflectivity
+  * Radioactive Material Handling
+  * Radiation Meters
+  * Hall Effect Measurements
+  * Class 100 Cleanroom
+* Data Analysis
+  * Quantitative Analytics
+  * Experimental Design
+  * Measurement Techniques
+  * Mathematics
+  * Statistics
+  * Regression Analysis
+  * Cluster Analysis
+  * Neural Networks
+  * Data Visualization
+  * Data Cleaning
+  * Image Analysis
+* Software and Programming Languages/Packages
+  * Python
+  * Jupyter
+  * sklearn
+  * Pandas
+  * Numpy
+  * matplotlib
+  * Tensorflow 2
+  * Tableau
+  * SQL
+  * R
+  * Mathematica
+  * Microsoft Office/Excel/Word
+  * Labview
+  * JMP
+  * Git
+  * Root

@@ -19,9 +19,9 @@ Online Training
 ======
 * Automate the Boring Stuff with Python Programming online course completed June 2019
 * 365 Data Science Bootcamp online course completed Oct. 2019
-* UIUC Accelerated Computer Science Fundamentals Course completed Jan. 2020
-* Python for Data Science and Machine Learning Bootcamp completed Mar. 2020
-* Complete Tensorflow 2 and Keras Deep Learning Bootcamp completed Apr. 2020
+* UIUC Accelerated Computer Science Fundamentals Coursera specialization completed Jan. 2020
+* Python for Data Science and Machine Learning Bootcamp online course completed Mar. 2020
+* Complete Tensorflow 2 and Keras Deep Learning Bootcamp online course completed Apr. 2020
 
 Work experience
 ======

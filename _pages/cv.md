@@ -19,9 +19,20 @@ Online Training
 ======
 * Automate the Boring Stuff with Python Programming online course completed June 2019
 * 365 Data Science Bootcamp online course completed Oct. 2019
+* UIUC Accelerated Computer Science Fundamentals Course completed Jan. 2020
+* Python for Data Science and Machine Learning Bootcamp completed Mar. 2020
+* Complete Tensorflow 2 and Keras Deep Learning Bootcamp completed Apr. 2020
 
 Work experience
 ======
+* Data Science Analyst, Mayo Clinic Rochester: Apr. 2029 - Present
+    * Develop computer vision models for medical imaging using Tensorflow, Keras, PyTorch, and fast.ai
+    * Support and maintain open-source image analysis and annotation software
+    * Collaborate between departments to progress interdisciplinary research goals
+    * Develop tools to bridge gaps between existing code libraries and industry requirements
+    * Extending fast.ai functionality for medical imaging
+    * Extending applications of 2-D pretrained models to higher dimensional medical data
+
 * Graduate Research and Teaching Assistant, University of Minnesota: Aug 2011 – Aug 2017
     * Collected and analyzed data in many paradigms (x-ray diffraction, low temperature physics, energetic particle detectors) using software based collection methods
     * Epitaxial deposition of high temperature superconductors
@@ -83,29 +94,18 @@ Skills
 * Data Analysis
   * Quantitative Analytics
   * Experimental Design
-  * Measurement Techniques
   * Mathematics
-  * Statistics
-  * Regression Analysis
-  * Cluster Analysis
-  * Neural Networks
-  * Data Visualization
-  * Data Cleaning
+  * Deep Learning
   * Image Analysis
 * Software and Programming Languages/Packages
   * Python
+  * Pytorch
+  * Tensorflow 2/Keras
+  * fast.ai
   * Jupyter
   * sklearn
   * Pandas
-  * Numpy
+  * Numpy/Cupy
   * matplotlib
-  * Tensorflow 2
   * Tableau
-  * SQL
-  * R
-  * Mathematica
-  * Microsoft Office/Excel/Word
-  * Labview
-  * JMP
   * Git
-  * Root

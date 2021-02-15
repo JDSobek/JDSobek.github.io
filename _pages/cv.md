@@ -25,7 +25,7 @@ Online Training
 
 Work experience
 ======
-* Data Science Analyst, Mayo Clinic Rochester: Apr. 2029 - Present
+* Data Science Analyst, Mayo Clinic Rochester: Apr. 2020 - Present
     * Develop computer vision models for medical imaging using Tensorflow, Keras, PyTorch, and fast.ai
     * Support and maintain open-source image analysis and annotation software
     * Collaborate between departments to progress interdisciplinary research goals
